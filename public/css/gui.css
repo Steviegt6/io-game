@@ -7,7 +7,6 @@
 
 .UIContainer .content {
   padding: 8px 8px 8px 8px;
-  min-height: 100px;
 }
 
 .UIContainer .header {
@@ -28,9 +27,9 @@
   -webkit-box-sizing: border-box; /* For Firefox */
   resize: horizontal; /* For Safari */
   outline: none;
-	background-color: black;
-	color: white;
-	border: 0;
+    background-color: black;
+    color: white;
+    border: 0;
 }
 
 .UIContainer .input {
@@ -38,10 +37,10 @@
 }
 
 #input {
-	background-color: black;
-	color: white;
-	outline: none;
-	border-color: rgb(20, 20, 20);
-	border-style: dashed;
-	width: 50%;
+    background-color: black;
+    color: white;
+    outline: none;
+    border-color: rgb(20, 20, 20);
+    border-style: dashed;
+    width: 50%;
 }
